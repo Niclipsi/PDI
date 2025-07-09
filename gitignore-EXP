@@ -1,0 +1,3 @@
+incluye entradas para ignorar la carpeta node_modules, archivos de registro, archivos de configuración
+con información sensible, y archivos temporales generados durante el desarrollo. Esto ayuda a mantener 
+el repositorio limpio y evita el seguimiento de archivos innecesarios o que cambian con frecuencia. 
